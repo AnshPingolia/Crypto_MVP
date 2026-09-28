@@ -1,0 +1,34 @@
+{
+  "name": "crypto-fraud-tracer-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Victim-to-Cash-Out Crypto Fraud Tracer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.9.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "dagre": "^0.8.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-hook-form": "^7.88.0",
+    "react-router-dom": "^7.18.4",
+    "reactflow": "^11.11.4",
+    "tronweb": "^6.5.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/dagre": "^0.7.52",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "typescript": "^7.0.2"
+  }
+}

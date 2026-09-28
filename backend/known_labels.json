@@ -1,0 +1,47 @@
+[
+    {
+        "address": "TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf",
+        "label": "Binance-Hot 7",
+        "source": "https://tronscan.org/#/address/TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf"
+    },
+    {
+        "address": "TAzsQ9Gx8eqFNFSKbeXrbi45CuVPHzA8wr",
+        "label": "Binance-Hot 5",
+        "source": "https://tronscan.org/#/address/TAzsQ9Gx8eqFNFSKbeXrbi45CuVPHzA8wr"
+    },
+    {
+        "address": "TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh",
+        "label": "Binance-Hot 10",
+        "source": "https://tronscan.org/#/address/TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh"
+    },
+    {
+        "address": "TJ5usJLLwjwn7Pw3TPbdzreG7dvgKzfQ5y",
+        "label": "Binance-Hot 9",
+        "source": "https://tronscan.org/#/address/TJ5usJLLwjwn7Pw3TPbdzreG7dvgKzfQ5y"
+    },
+    {
+        "address": "TG2CMGxnTPgQ6V58kiKd7wbyN8ewtAmY76",
+        "label": "Kraken: Hot Wallet",
+        "source": "https://tronscan.org/#/address/TG2CMGxnTPgQ6V58kiKd7wbyN8ewtAmY76"
+    },
+    {
+        "address": "TLaGjwhvA8XQYSxFAcAXy7Dvuue9eGYitv",
+        "label": "OKX Hot Wallet 8",
+        "source": "https://tronscan.org/#/address/TLaGjwhvA8XQYSxFAcAXy7Dvuue9eGYitv"
+    },
+    {
+        "address": "TU4vEruvZwLLkSfV9bNw12EJTPvNr7Pvaa",
+        "label": "Bybit",
+        "source": "https://tronscan.org/#/address/TU4vEruvZwLLkSfV9bNw12EJTPvNr7Pvaa"
+    },
+    {
+        "address": "TXFBqBbqJommqZf7BV8NNYzePh97UmJodJ",
+        "label": "Bitfinex",
+        "source": "https://tronscan.org/#/address/TXFBqBbqJommqZf7BV8NNYzePh97UmJodJ"
+    },
+    {
+        "address": "TKHuVq1oKVruCGLvqVexFs6dawKv6fQgFs",
+        "label": "Tether Treasury",
+        "source": "https://tronscan.org/#/address/TKHuVq1oKVruCGLvqVexFs6dawKv6fQgFs"
+    }
+]

@@ -1,0 +1,72 @@
+/* Crypto Fraud Tracer - Custom Government Theme */
+/* Direct CSS values for government investigation color scheme */
+
+:root {
+  /* Brand colors - Government investigation theme */
+  --brand-primary: #0B2A4A;       /* Deep navy */
+  --brand-secondary: #1677FF;     /* Blue */
+  --brand-tertiary: #00A6A6;       /* Teal */
+  
+  /* Text and background */
+  --text-primary: #172B4D;        /* Text */
+  --text-secondary: #5E6C84;      /* Secondary text */
+  --background-primary: #F5F7FA;  /* Background */
+  --background-secondary: #F8F9FA; /* Secondary background */
+  --surface-card: #FFFFFF;        /* Card surface */
+  
+  /* Borders */
+  --border-default: #D1D5DB;
+  --border-strong: #9CA3AF;
+  
+  /* Feedback colors */
+  --feedback-success: #166534;
+  --feedback-success-bg: #DCFCE7;
+  --feedback-error: #991B1B;
+  --feedback-error-bg: #FEE2E2;
+  --feedback-warning: #92400E;
+  --feedback-warning-bg: #FEF3C7;
+  --feedback-info: #1E40AF;
+  --feedback-info-bg: #DBEAFE;
+  
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 24px;
+  --spacing-2xl: 32px;
+  --spacing-3xl: 48px;
+  
+  /* Radius */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-full: 9999px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode overrides (if needed in future) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-primary: #1A202C;
+    --text-primary: #F7FAFC;
+    --text-secondary: #A0AEC0;
+    --background-secondary: #2D3748;
+    --surface-card: #2D3748;
+    --border-default: #4A5568;
+  }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
